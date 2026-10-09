@@ -12,7 +12,7 @@ public class conn {
     conn(){
         try{
             Class.forName("com.mysql.cj.jdbc.Driver");
-            connection= DriverManager.getConnection("jdbc:mysql:///universitymanagement","root","Password");
+            connection= DriverManager.getConnection("jdbc:mysql:///universitymanagement","root","Neeraj@1234");
            statement=connection.createStatement();
 
         }catch(Exception e){
