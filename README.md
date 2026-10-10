@@ -42,6 +42,14 @@ The application uses MySQL to store student records, faculty details, attendance
 ## Project Objective
 The main objective is to simplify university administration by managing student and faculty information in one system.
 
+##  Screenshots
+<img width="1280" height="800" alt="Screenshot 2026-10-11 at 1 42 37 AM" src="https://github.com/user-attachments/assets/96450273-522c-4541-a56d-34a5767c1e1d" />
+
+## Screenshot Add Student
+<img width="890" height="690" alt="Screenshot 2026-10-11 at 1 43 04 AM" src="https://github.com/user-attachments/assets/8960f962-efbb-437d-b2ac-613ad0391a1e" />
+
+
+
 ##  Author
 Neeraj Kumar Gupta
 
